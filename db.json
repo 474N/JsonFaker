@@ -84,5 +84,13 @@
       "imagen": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
       "id": 12
     }
+  ],
+  "products": [
+    {
+      "id": "15615b1c-1b71-44dd-b736-f479c5b77f16",
+      "name": "Pokemon",
+      "price": "60",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKWuyVLfdIQSZRv5odzlUNxdpytGOvuUgdIJwouA7l-Q&s"
+    }
   ]
 }

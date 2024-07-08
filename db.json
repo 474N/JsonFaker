@@ -86,11 +86,11 @@
     }
   ],
   "products": [
-		{
-			"id": "1",
-			"name": "Arcade",
-			"price": "100",
-			"image_url": ""
-		}
+    {
+      "id": "1",
+      "name": "Arcade",
+      "price": "100",
+      "image_url": ""
+    }
   ]
 }
